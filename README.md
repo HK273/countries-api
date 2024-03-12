@@ -20,7 +20,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [No async client component](https://nextjs.org/docs/messages/no-async-client-component)
 - [remotePatterns - Allow external images (next.config.mjs)](https://nextjs.org/docs/app/api-reference/components/image#remotepatterns)
 - [TanStack Table](https://tanstack.com/table/latest/docs/introduction)
-- [Testing] (https://www.youtube.com/watch?v=pnLC-9waA44)
+- [Testing](https://www.youtube.com/watch?v=pnLC-9waA44)
 - [Next testing error](https://github.com/vercel/next.js/issues/53272)
 - [Next testing docs](https://nextjs.org/docs/app/building-your-application/testing/jest)
 - [not wrapped in act(...)](https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning)
