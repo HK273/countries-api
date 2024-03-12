@@ -1,0 +1,41 @@
+[
+  {
+    "NativeName": {
+      "deu": {
+        "official": "Königreich Belgien",
+        "common": "Belgien"
+      },
+      "fra": {
+        "official": "Royaume de Belgique",
+        "common": "Belgique"
+      },
+      "nld": {
+        "official": "Koninkrijk België",
+        "common": "België"
+      }
+    },
+    "SubRegion": "Western Europe",
+    "Flag": "https://flagcdn.com/w320/be.png",
+    "Name": "Belgium",
+    "Population": 11555997,
+    "Region": "Europe",
+    "Capital": "Brussels",
+    "Languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "Currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "BorderCountries": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ]
+  }
+]
