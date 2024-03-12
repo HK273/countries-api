@@ -10,7 +10,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 ## Overview
 
 - [Solution]()
-- [Site]()
+- [Site](https://countries-api-zeta-flame.vercel.app/)
 
 ### Links
 
@@ -25,7 +25,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [Next testing docs](https://nextjs.org/docs/app/building-your-application/testing/jest)
 - [not wrapped in act(...)](https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning)
 
-#### Testing Set-up          
+#### Testing Set-up
 
 Set up dev dependencies
 
