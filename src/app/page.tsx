@@ -14,7 +14,6 @@ export default function Home() {
   const [selectedRegions, setSelectedRegions] = useState<VisibilityState>({});
   const [isLoading, setIsLoading] = useState(true); // Add loading state
 
-  // Can't use async and 'use client' together, so make this a full 'client component' using state and effects
   useEffect(() => {
     // Initialize selectedRegions with all true values to render cards on load
     const allRegions = {
